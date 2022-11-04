@@ -3,14 +3,14 @@
 ![I am GitHub Readme Generator's creator](https://synergytopimages.s3.ap-south-1.amazonaws.com/wp-content/uploads/2021/07/06034502/MERN-1-1.png)
 
 <h2>For FrontEnd</h2>
-● Primary Skills: HTML / CSS / Git & Github
-● CSS FramWork : Bootstrap / Tailwind
-● Tailwind Component library : daisyUI / MambaUI / Kitwind / Flowbite
-● JavaScript with mordern Js ES6 / API / DEV Tools & Debuging
+● Primary Skills: HTML / CSS / Git & Github <br>
+● CSS FramWork : Bootstrap / Tailwind <br>
+● Tailwind Component library : daisyUI / MambaUI / Kitwind / Flowbite <br>
+● JavaScript with mordern Js ES6 / API / DEV Tools & Debuging <br>
 ● JaraScript Library: React.js
 
 <h2>For BackEnd</h2>
-→ Second Skills: MongoDB / Express / React / NodeJS
+→ Second Skills: MongoDB / Express / React / NodeJS <br>
 
 
 - 💼 I’m currently working on <a href="https://cphostingworld.com/">cP Hosting World</a> 
