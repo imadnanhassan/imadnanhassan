@@ -2,11 +2,18 @@
 
 ![I am GitHub Readme Generator's creator](https://synergytopimages.s3.ap-south-1.amazonaws.com/wp-content/uploads/2021/07/06034502/MERN-1-1.png)
 
-Experienced Chief Executive Officer with a demonstrated history of working in the business supplies and equipment industry. Skilled in AutoCAD, SEO, Web Design, and Development. Strong business development professional with a Diploma in engineering focused on Environmental Science from Barguna Polytechnic institute.
+<h2>For FrontEnd</h2>
+● Primary Skills: HTML / CSS / Git & Github
+● CSS FramWork : Bootstrap / Tailwind
+● Tailwind Component library : daisyUI / MambaUI / Kitwind / Flowbite
+● JavaScript with mordern Js ES6 / API / DEV Tools & Debuging
+● JaraScript Library: React.js
 
-Skills: REACT / JS / HTML / CSS/ BOOTSTRAP/ TAILWIND/ GIT & GITHUB
+<h2>For BackEnd</h2>
+→ Second Skills: MongoDB / Express / React / NodeJS
 
-- 🔭 I’m currently working on cphostingworld.com 
+- ![image](https://user-images.githubusercontent.com/109860817/199968396-04db9058-9bdf-4325-aa43-d38d0db6b370.png)
+ I’m currently working on <a href="https://cphostingworld.com/">cP Hosting World</a> 
 - 🌱 I’m currently learning React.Js 
 - 🤔 I’m looking for help with mdadnanhassan.com 
 - 💬 Ask me about mdadnanhassan.com 
