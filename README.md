@@ -12,13 +12,15 @@
 <h2>For BackEnd</h2>
 → Second Skills: MongoDB / Express / React / NodeJS
 
-- ![image](https://user-images.githubusercontent.com/109860817/199968396-04db9058-9bdf-4325-aa43-d38d0db6b370.png)
- I’m currently working on <a href="https://cphostingworld.com/">cP Hosting World</a> 
-- 🌱 I’m currently learning React.Js 
-- 🤔 I’m looking for help with mdadnanhassan.com 
-- 💬 Ask me about mdadnanhassan.com 
-- 📫 How to reach me: mail@mdadnanhassan.com and  facebook.com/iamadnanhassan 
 
+- 💼 I’m currently working on <a href="https://cphostingworld.com/">cP Hosting World</a> 
+- 🌱 I’m currently learning <b>MERN</b>
+- ❤️ I love writing JavaScript, React.js 
+- 🤔 I’m looking for help with mdadnanhassan.com 
+- 💬 Ask me about: <a href="[https://cphostingworld.com/](https://www.facebook.com/iamadnanhassan/)">Massage on Facebook</a> 
+- 📫 How to reach me: <a href="https://mdadnanhassan.com/">Web Site</a> 
+
+<h2 align="center">A passionate frontend developer from Bangladesh</h2>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/imadnanhassan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/iamadnanhassan/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/iamadnanhassan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/imadnanhassan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://mdadnanhassan.com/)  
 
