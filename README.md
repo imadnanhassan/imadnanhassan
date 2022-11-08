@@ -7,7 +7,7 @@
 ● CSS FramWork : Bootstrap / Tailwind <br>
 ● Tailwind Component library : daisyUI / MambaUI / Kitwind / Flowbite <br>
 ● JavaScript with mordern Js ES6 / API / DEV Tools & Debuging <br>
-● JaraScript Library: React.js
+● JavaScript Library: React.js
 
 <h2>For BackEnd</h2>
 → Second Skills: MongoDB / Express / React / NodeJS <br> <br> <br>
