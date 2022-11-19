@@ -35,7 +35,6 @@ Connect with me:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=imadnanhassan&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=imadnanhassan)  
 
 ![GitHub metrics](https://metrics.lecoq.io/imadnanhassan)  
 
