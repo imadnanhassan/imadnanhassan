@@ -11,7 +11,6 @@
 
 <h2 align="center">A passionate frontend developer from Bangladesh</h2> <br><br>
 
-:coffee: &emsp;Connect with me!
 
 
 ## 🌐 Socials:
