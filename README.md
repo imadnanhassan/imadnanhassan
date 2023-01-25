@@ -23,12 +23,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=imadnanhassan&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=imadnanhassan&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=https://twitter.com/imadnanhassan)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
----
-[![](https://visitcount.itsvg.in/api?id=imadnanhassan&icon=2&color=5)](https://visitcount.itsvg.in)
-
 
 
 
