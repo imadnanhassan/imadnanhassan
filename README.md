@@ -10,9 +10,6 @@
 - 💬 Ask me about: <a href="[https://cphostingworld.com/](https://www.facebook.com/iamadnanhassan/)">Massage on Facebook</a> 
 - 📫 How to reach me: <a href="https://mdadnanhassan.com/">Web Site</a> 
 
-<h2 align="center">A passionate frontend developer from Bangladesh</h2> <br><br>
-
-
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https:/iamadnanhassan/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https:/imadnanhassan/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/iamadnanhassan/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/imadnanhassan) 
