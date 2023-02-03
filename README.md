@@ -1,4 +1,4 @@
-<h1 align="center">I'm Adnan Hasan</h1>
+<h1 align="center">I'm Abul Hasan</h1>
 <h2 align="center">A passionate frontend developer from Bangladesh</h2>
 
 ![I am GitHub Readme Generator's creator](https://allma.si/blog/wp-content/uploads/2020/08/mern-stack-1024x284.png)
