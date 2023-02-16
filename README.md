@@ -33,9 +33,10 @@
 
 #### Profile Visits
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=imadnanhassan.imadnanhassan)
-![Profile views](https://gpvc.arturio.dev/imadnanhassan)  
+![Profile views](https://visitor-badge.glitch.me/badge?page_id=imadnanhassan.imadnanhassan)
+ 
 
+![Profile views counter](https://komarev.com/ghpvc/?username=imadnanhassan&&style=flat-square)  
 
 
 
