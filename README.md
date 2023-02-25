@@ -64,9 +64,9 @@ I'm Adnan Hassan from Bangladesh, and I do content on Design and Development. I 
 
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/coddermoon/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/coddermoon"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/coddermoon/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.linkedin.com/in/imadnanhassan/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/imadnanhassan"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.instagram.com/imadnanhassan/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 
 </p>
@@ -77,8 +77,8 @@ I'm Adnan Hassan from Bangladesh, and I do content on Design and Development. I 
    <table>
    <h1 align="center">Github Stats</h1>
        <tr>
-       <td><img alt="imadnanhassan :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=coddermoon&theme=blue-green&amp;show_icons=true&amp;count_private=true&amp;hide_border=true" /></td>
-       <td><img alt="imadnanhassan :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coddermoon&langs_count=14&theme=blue-green&layout=compact&hide=html"> </td>
+       <td><img alt="imadnanhassan :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=imadnanhassan&theme=blue-green&amp;show_icons=true&amp;count_private=true&amp;hide_border=true" /></td>
+       <td><img alt="imadnanhassan :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imadnanhassan&langs_count=14&theme=blue-green&layout=compact&hide=html"> </td>
      </tr>
      <tr>
         <td colspan="2" align="center"><img  align="center" src="https://github-readme-streak-stats.herokuapp.com?user=imadnanhassan&theme=blue-green&hide_border=true"></td>
