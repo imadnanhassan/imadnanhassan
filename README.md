@@ -1,40 +1,106 @@
-# <h1 align="center">👨‍💻 Welcome Programmer</h1>
+![Design and Development](https://github.com/coddermoon/coddermoon/blob/main/cover.png)
+
+# Mahamodul Hasan Moon
+
+I'm Mahamodul Hasan Moon from Bangladesh, and I do content on Design and Development. I really enjoy learning languages and frameworks like React and React Native, as well as work in WordPress. I also enjoy wireframing, ui, ux, and design in general.
+
+## About Me
+- 🌱 I’m currently learning MERN Stack Development
+- 💬 Ask me about **Web Solutions**
+- 📫 How to reach me: coddermoon@gmail.com
+- ⚡ Fun fact **I Think i'm funny too 😃**
+<br/><br/>
+
+#### :muscle: Things I am challenging myself with:
+
+- Waking up earlier to make good use of the day
+- Coding at least 4 hours a day
+- Exercising 3 days a week
+- Improving my CV with some education apart from university
+
+<br />
+
+
+<h2><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width='50'/>&nbsp;Technologies that I know</h2>
+
+<br>
+<p align="center">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="30"/> 
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="30"/>
+
+<img src="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" height="30"/> 
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="30"/> 
+<img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" height="30"/> <img src=" 	https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" height="30"/>
+ <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" height="30"/> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="30"/>
+   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" height="30"/>
+    <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" height="30"/>
+     <img src="https://img.shields.io/badge/firebase-FFCA28.svg?&style=for-the-badge&logo=firebase&logoColor=white" height="30"/>
+      <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" height="30"/> <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF" height="30"/>
+     <img src="https://img.shields.io/badge/-express-20232A?style=flat&logo=express&logoColor=FFFFFF" height="30"/>
+</p>
+<br/>
+
+<!-- tools -->
+<h2><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width='50'/>&nbsp;Tools</h2>
+
+<br>
+<p align="left">
+ <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/figma.png"/> </a> 
+<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
+ <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/github.png"/> </a>
+<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a>
+<a href="https://www.w3schools.com/css/" target="_blank"> <img src="./code.png"/> </a>
+<a href="https://www.w3schools.com/css/" target="_blank"> <img src="./postman.png"/> </a>
+<a href="https://www.w3schools.com/css/" target="_blank"> <img src="./heroku.png"/> </a>
+
+
+</p>
+<br/>
+
+<!-- social links -->
+
+## Connect with me:
+
+<p align="left">
+
+<a href = "https://www.linkedin.com/in/coddermoon/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/coddermoon"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.instagram.com/coddermoon/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+
+
+</p>
+
+
+<!-- github states and trofee -->
+<p align="center">
+   <table>
+   <h1 align="center">Github Stats</h1>
+       <tr>
+       <td><img alt="coddermoon :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=coddermoon&theme=blue-green&amp;show_icons=true&amp;count_private=true&amp;hide_border=true" /></td>
+       <td><img alt="coddermoon :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coddermoon&langs_count=14&theme=blue-green&layout=compact&hide=html"> </td>
+     </tr>
+     <tr>
+        <td colspan="2" align="center"><img  align="center" src="https://github-readme-streak-stats.herokuapp.com?user=coddermoon&theme=blue-green&hide_border=true"></td>
+     </tr>
+   </table>
+</p>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=coddermoon&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
 
 
-<h1 align="center">I'm Adnan Hasan</h1>
-<h2 align="center">A passionate frontend developer from Bangladesh</h2>
+## ❤ Views and Followers
 
-![I am GitHub Readme Generator's creator](https://allma.si/blog/wp-content/uploads/2020/08/mern-stack-1024x284.png)
+<a href="https://github.com/coddermoon/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=coddermoon"  height="30">
+</a>
+<a href="https://github.com/coddermoon?tab=followers">
+<img src="https://img.shields.io/github/followers/coddermoon?label=Followers&style=social" alt="GitHub Badge"  height="30"></a><br/>
 
-- 💼 I’m currently working on <a href="https://cphostingworld.com/">cP Hosting World</a> 
-- 🌱 I’m currently learning <b>MERN</b>
-- ❤️ I love writing JavaScript, React.js 
-- :computer: Most used line of code `console.log("hello world")`
-- 🤔 I’m looking for help with mdadnanhassan.com 
-- 💬 Ask me about: <a href="[https://cphostingworld.com/](https://www.facebook.com/iamadnanhassan/)">Massage on Facebook</a> 
-- 📫 How to reach me: <a href="https://mdadnanhassan.com/">Web Site</a> 
-
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https:/iamadnanhassan/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https:/imadnanhassan/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/iamadnanhassan/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/imadnanhassan) 
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-
- ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)  ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=imadnanhassan&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=imadnanhassan&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=imadnanhassan&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-#### Profile Visits
-
-![Profile views counter](https://komarev.com/ghpvc/?username=imadnanhassan&&style=flat-square)  
-
-
-
+<!-- random coate -->
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
