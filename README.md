@@ -78,6 +78,9 @@ I'm Adnan Hassan from Bangladesh, and I do content on Design and Development. I 
        <td><img alt="imadnanhassan :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=imadnanhassan&theme=blue-green&amp;show_icons=true&amp;count_private=true&amp;hide_border=true" /></td>
        <td><img alt="imadnanhassan :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imadnanhassan&langs_count=14&theme=blue-green&layout=compact&hide=html"> </td>
      </tr>
+    <tr>
+        <td colspan="2" align="center"><img  align="center" src="https://github-readme-streak-stats.herokuapp.com?user=imadnanhassan&theme=blue-green&hide_border=true"></td>
+     </tr>
    </table>
 </p>
 
