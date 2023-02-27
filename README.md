@@ -61,11 +61,7 @@ I'm Adnan Hassan from Bangladesh, and I do content on Design and Development. I 
 ## Connect with me:
 
 <p align="left">
-
-<a href = "https://www.linkedin.com/in/imadnanhassan/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/imadnanhassan"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/imadnanhassan/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-
+ 
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/imadnanhassan/)
 [![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](#)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imadnanhassan/) 
