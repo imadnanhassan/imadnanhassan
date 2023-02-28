@@ -78,7 +78,7 @@ I'm Adnan Hassan from Bangladesh, and I do content on Design and Development. I 
        <tr>
        <td><img alt="imadnanhassan :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=imadnanhassan&theme=blue-green&amp;show_icons=true&amp;count_private=true&amp;hide_border=true" />
        </td>
-       <td><img alt="imadnanhassan :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imadnanhassan&langs_count=14&theme=blue-green&layout=compact&hide=html"> </td>
+       <td><img alt="imadnanhassan :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imadnanhassan&langs_count=14&theme=blue-green&layout=compact"> </td>
      </tr>
      <tr>
         <td colspan="2" align="center"><img  align="center" src="https://github-readme-streak-stats.herokuapp.com?user=imadnanhassan&theme=black-green&hide_border=true"></td>
@@ -86,7 +86,7 @@ I'm Adnan Hassan from Bangladesh, and I do content on Design and Development. I 
    </table>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imadnanhassan&langs_count=8)](https://github.com/imadnanhassan/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imadnanhassan&langs_count=14&theme=blue-green&layout=compact")](https://github.com/imadnanhassan/github-readme-stats)
 
 
 ## 🏆 GitHub Trophies
