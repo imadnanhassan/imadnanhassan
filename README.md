@@ -84,13 +84,7 @@ I'm Adnan Hassan from Bangladesh, and I do content on Design and Development. I 
      <tr>
         <td colspan="2" align="center"><img  align="center" src="https://github-readme-streak-stats.herokuapp.com?user=imadnanhassan&theme=black-green&hide_border=true"></td>
      </tr>
-    <tr>
-    <td>
-     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imadnanhassan&langs_count=14&theme=blue-green&layout=compact")](https://github.com/imadnanhassan/github-readme-stats)
-     </td>
-    </tr>
    </table>
-   
 </p>
 
 
