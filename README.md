@@ -86,6 +86,9 @@ I'm Adnan Hassan from Bangladesh, and I do content on Design and Development. I 
    </table>
 </p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imadnanhassan&langs_count=8)](https://github.com/imadnanhassan/github-readme-stats)
+
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=imadnanhassan&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
