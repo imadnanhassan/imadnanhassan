@@ -1,4 +1,3 @@
-![Design and Development](https://www.pluralsight.com/)
 
 # Adnan Hassan
 
@@ -11,12 +10,7 @@ I'm Adnan Hassan from Bangladesh, and I do content on Design and Development. I 
 - ⚡ Fun fact **I Think i'm funny too 😃**
 <br/><br/>
 
-#### :muscle: Things I am challenging myself with:
 
-- Waking up earlier to make good use of the day
-- Coding at least 4 hours a day
-- Exercising 3 days a week
-- Improving my CV with some education apart from university
 
 <br />
 
