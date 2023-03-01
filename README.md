@@ -1,4 +1,4 @@
-![Design and Development](#)
+![Design and Development](https://www.pluralsight.com/)
 
 # Adnan Hassan
 
@@ -86,12 +86,6 @@ I'm Adnan Hassan from Bangladesh, and I do content on Design and Development. I 
      </tr>
    </table>
 </p>
-
-
-
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=imadnanhassan&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
 
