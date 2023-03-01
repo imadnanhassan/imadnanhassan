@@ -1,7 +1,7 @@
 
-# Adnan Hassan
+# Abul Hassan
 
-I'm Adnan Hassan from Bangladesh, and I do content on Design and Development. I really enjoy learning languages and frameworks like React and React Native, as well as work in WordPress. I also enjoy wireframing, ui, ux, and design in general.
+I'm Abul Hassan from Bangladesh, and I work on Digital Marketing [SEO] and design-development . I really enjoy learning languages and frameworks like React and React Native, as well as work in WordPress. I also enjoy wireframing, ui, ux, and design in general.
 
 ## About Me
 - 🌱 I’m currently learning MERN Stack Development
