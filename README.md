@@ -11,6 +11,15 @@ I'm Adnan Hassan from Bangladesh, and I do content on Design and Development. I 
 <br/><br/>
 
 
+## ❤ Views and Followers
+
+<a href="https://github.com/imadnanhassan/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=imadnanhassan"  height="30">
+</a>
+<a href="https://github.com/imadnanhassan?tab=followers">
+<img src="https://img.shields.io/github/followers/imadnanhassan?label=Followers&style=social" alt="GitHub Badge"  height="30"></a><br/>
+
+
 
 <br />
 
@@ -82,13 +91,4 @@ I'm Adnan Hassan from Bangladesh, and I do content on Design and Development. I 
 </p>
 
 
-
-
-## ❤ Views and Followers
-
-<a href="https://github.com/imadnanhassan/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=imadnanhassan"  height="30">
-</a>
-<a href="https://github.com/imadnanhassan?tab=followers">
-<img src="https://img.shields.io/github/followers/imadnanhassan?label=Followers&style=social" alt="GitHub Badge"  height="30"></a><br/>
 
