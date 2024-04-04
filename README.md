@@ -77,7 +77,7 @@
        <tr>
        <td>
          <img alt="imadnanhassan :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=imadnanhassan&theme=blue-green&amp;show_icons=true&amp;count_private=true&amp;hide_border=true" />
-         ![](https://github-readme-stats.vercel.app/api?username=imadnanhassan&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+         
        </td>
        <td>
          <img alt="imadnanhassan :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imadnanhassan&langs_count=14&theme=blue-green&layout=compact"> 
@@ -88,6 +88,11 @@
      </tr>
    </table>
 </p>
+
+![](https://github-readme-stats.vercel.app/api?username=imadnanhassan&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=imadnanhassan&theme=radical&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=imadnanhassan&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
 
 
 
