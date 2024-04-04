@@ -68,7 +68,8 @@
 <a href="https://github.com/imadnanhassan?tab=followers">
 <img src="https://img.shields.io/github/followers/imadnanhassan?label=Followers&style=social" alt="GitHub Badge"  height="30"></a><br/>
 
-
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=imadnanhassan&theme=monokai&no-frame=true&no-bg=true&margin-w=4)
 
 <!-- github states and trofee -->
 <p align="center">
@@ -86,13 +87,6 @@
    </table>
 </p>
 
-![](https://github-readme-stats.vercel.app/api?username=imadnanhassan&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=imadnanhassan&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=imadnanhassan&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-
-
-
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=imadnanhassan&limit=5&theme=algolia&combine_all_yearly_contributions=true)
@@ -100,8 +94,6 @@
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=imadnanhassan&theme=monokai&no-frame=true&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
