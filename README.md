@@ -1,16 +1,7 @@
 <br clear="both">
 
-<div align="center">
-  <img height="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif"  />
-</div>
-
-###
-
-
 # 💫 About Me:
 🔭 I’m currently working on [IT Lab Industry]<br>👯 I’m looking to collaborate on [cPHostingWorld]<br>🌱 I’m currently learning "Next Js, TypeScript"<br>💬 Ask me about "SEO, React JS"<br>⚡ Fun fact, লাইফ প্যারা হীন
-
-
 
 <p align="left">
  
@@ -68,8 +59,7 @@
 <a href="https://github.com/imadnanhassan?tab=followers">
 <img src="https://img.shields.io/github/followers/imadnanhassan?label=Followers&style=social" alt="GitHub Badge"  height="30"></a><br/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=imadnanhassan&theme=monokai&no-frame=true&no-bg=true&margin-w=4)
+
 
 <!-- github states and trofee -->
 <p align="center">
@@ -88,12 +78,6 @@
 </p>
 
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=imadnanhassan&limit=5&theme=algolia&combine_all_yearly_contributions=true)
-
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
 
