@@ -1,7 +1,7 @@
 <br clear="both">
 
 # 💫 About Me:
-🔭 I’m currently working on [IT Lab Industry]<br>👯 I’m looking to collaborate on [cPHostingWorld]<br>🌱 I’m currently learning "Next Js, TypeScript"<br>💬 Ask me about "SEO, React JS"<br>⚡ Fun fact, লাইফ প্যারা হীন
+🔭 I’m currently working on [IT Lab Industry]<br>👯 I’m looking to collaborate on [cPHostingWorld]<br>🌱 I’m currently learning "Next Js, TypeScript, Node js"<br>💬 Ask me about "SEO, React JS"<br>⚡ Fun fact, লাইফ প্যারা হীন
 
 <p align="left">
  
