@@ -68,6 +68,22 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=imadnanhassan&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
+# 📊 GitHub Stats:
+<p align="center">
+   <table>
+   <h1 align="center">Github Stats</h1>
+       <tr>
+       <td><img alt="imadnanhassan :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=imadnanhassan&theme=highcontrast&amp;show_icons=true&amp;count_private=true&amp;hide_border=true" />
+       </td>
+       <td><img alt="imadnanhassan :: Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imadnanhassan&langs_count=14&theme=highcontrast&layout=compact"> 
+        </td>
+     </tr>
+     <tr>
+        <td colspan="2" align="center"><img  align="center" src="https://github-readme-streak-stats.herokuapp.com?user=imadnanhassan&theme=highcontrast&hide_border=true"></td>
+     </tr>
+   </table>
+</p>
+
 
 <p align="center">
    <table>
