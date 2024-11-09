@@ -55,15 +55,6 @@ Here are the technologies I work with:
 
 ---
 
-## 📅 Latest Code
-
-### Commit from [Project Name](https://github.com/imadnanhassan/repo-name)
-> **Commit Message**: `Enhanced performance by optimizing API calls`
-> - **Date**: 2024-11-10
-> - **Files Changed**: `src/components/MyComponent.js`, `src/utils/api.js`
-
----
-
 ## 📬 Connect with Me
 - 🌐 Website: [adnanhassan.net](https://adnanhassan.net)
 - 📧 Email: abulhassan.dev@gmail.com
