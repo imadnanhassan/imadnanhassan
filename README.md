@@ -6,11 +6,11 @@ I'm a **WordPress Developer** and **SEO Expert** with a passion for building eff
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=imadnanhassane&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imadnanhassane&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=imadnanhassan&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imadnanhassan&layout=compact&theme=radical)
 
-![Profile Views](https://komarev.com/ghpvc/?username=imadnanhassane&color=blueviolet)
-[![GitHub Followers](https://img.shields.io/github/followers/imadnanhassane?label=Followers&style=social)](https://github.com/imadnanhassane)
+![Profile Views](https://komarev.com/ghpvc/?username=imadnanhassan&color=blueviolet)
+[![GitHub Followers](https://img.shields.io/github/followers/imadnanhassan?label=Followers&style=social)](https://github.com/imadnanhassan)
 
 ---
 
@@ -46,43 +46,29 @@ Here are the technologies I work with:
 
 ---
 
+## 🧑‍💻 My Code
+
+<!-- Typing animation using an SVG -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=F75341&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Adnan+Hassan%21;I'm+a+WordPress+Developer+%26+SEO+Expert;I+work+with+React%2C+Node.js%2C+and+TypeScript;Coding+is+my+passion+and+my+profession;Let’s+build+something+great+together%21" alt="Typing SVG Animation">
+</p>
+
+---
+
+## 📅 Latest Code
+
+### Commit from [Project Name](https://github.com/imadnanhassan/repo-name)
+> **Commit Message**: `Enhanced performance by optimizing API calls`
+> - **Date**: 2024-11-10
+> - **Files Changed**: `src/components/MyComponent.js`, `src/utils/api.js`
+
+---
+
 ## 📬 Connect with Me
 - 🌐 Website: [adnanhassan.net](https://adnanhassan.net)
-- 📧 Email: hello@adnanhassan.net
+- 📧 Email: abulhassan.dev@gmail.com
 - 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/imadnanhassan/)
 
 ---
 
 *Thanks for visiting! Feel free to explore my repositories and reach out if you have any questions or collaboration ideas.* 😊
-
-## 🧑‍💻 My Code
-
-Here’s a glimpse of my coding style and some key snippets I often use:
-
-```javascript
-// Sample API Fetching in React
-import React, { useEffect, useState } from 'react';
-import axios from 'axios';
-
-const MyComponent = () => {
-  const [data, setData] = useState([]);
-
-  useEffect(() => {
-    axios.get('https://api.example.com/data')
-      .then(response => setData(response.data))
-      .catch(error => console.error('Error fetching data:', error));
-  }, []);
-
-  return (
-    <div>
-      <h2>Data List</h2>
-      <ul>
-        {data.map((item, index) => (
-          <li key={index}>{item.name}</li>
-        ))}
-      </ul>
-    </div>
-  );
-};
-
-export default MyComponent;
