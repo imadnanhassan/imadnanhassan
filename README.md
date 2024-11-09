@@ -1,88 +1,88 @@
-<br clear="both">
+# 👋 Hello, I'm Adnan Hassan!
 
-# 💫 About Me:
-🔭 I’m currently working on [IT Lab Industry]<br>👯 I’m looking to collaborate on [...]<br>🌱 I’m currently learning "Next Js, TypeScript, Node js"<br>💬 Ask me about "SEO, React JS"<br>⚡ Fun fact, লাইফ প্যারা হীন
+I'm a **WordPress Developer** and **SEO Expert** with a passion for building efficient, user-friendly websites and applications. I specialize in custom WordPress solutions, e-commerce platforms, and seamless API integrations. Check out my projects and feel free to reach out if you'd like to collaborate!
 
-<p align="left">
- 
-[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](#)
-[![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](#)
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imadnanhassan/) 
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](#) 
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/imadnanhassan)
+---
 
-</p>
+## 📊 GitHub Stats
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=imadnanhassane&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imadnanhassane&layout=compact&theme=radical)
 
+![Profile Views](https://komarev.com/ghpvc/?username=imadnanhassane&color=blueviolet)
+[![GitHub Followers](https://img.shields.io/github/followers/imadnanhassane?label=Followers&style=social)](https://github.com/imadnanhassane)
 
+---
 
-<!-- 💻 Tech Stack: -->
-<h2><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width='50'/>&nbsp;Tools</h2>
+## 🛠️ Tech Stack
 
+Here are the technologies I work with:
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) 
-![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
-![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
-![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat-square)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat-square)
+![SASS](https://img.shields.io/badge/-SASS-CC6699?logo=sass&logoColor=white&style=flat-square)
+![MUI](https://img.shields.io/badge/-MUI-007FFF?logo=mui&logoColor=white&style=flat-square)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square)
+![React Router](https://img.shields.io/badge/-React%20Router-CA4245?logo=react-router&logoColor=white&style=flat-square)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat-square)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=flat-square)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&style=flat-square)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat-square)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat-square)
+![JWT](https://img.shields.io/badge/-JWT-000000?logo=json-web-tokens&logoColor=white&style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat-square)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat-square)
+![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify&logoColor=white&style=flat-square)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white&style=flat-square)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat-square)
+![GIT](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat-square)
+![Canva](https://img.shields.io/badge/-Canva-00C4CC?logo=canva&logoColor=white&style=flat-square)
 
+---
 
+## 📬 Connect with Me
+- 🌐 Website: [adnanhassan.net](https://adnanhassan.net)
+- 📧 Email: hello@adnanhassan.net
+- 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/imadnanhassan/)
 
+---
 
-## ❤ Views and Followers
+*Thanks for visiting! Feel free to explore my repositories and reach out if you have any questions or collaboration ideas.* 😊
 
-<a href="https://github.com/imadnanhassan/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=imadnanhassan"  height="30">
-</a>
-<a href="https://github.com/imadnanhassan?tab=followers">
-<img src="https://img.shields.io/github/followers/imadnanhassan?label=Followers&style=social" alt="GitHub Badge"  height="30"></a><br/>
+## 🧑‍💻 My Code
 
+Here’s a glimpse of my coding style and some key snippets I often use:
 
+```javascript
+// Sample API Fetching in React
+import React, { useEffect, useState } from 'react';
+import axios from 'axios';
 
-<!-- github states and trofee -->
-<p align="center">
-   <table>
-   <h1 align="center">📊 Github Stats</h1>
-       <tr>
-       <td><img alt="imadnanhassan :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=imadnanhassan&theme=highcontrast&amp;show_icons=true&amp;count_private=true&amp;hide_border=true" />
-       </td>
-       <td><img alt="imadnanhassan :: Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imadnanhassan&langs_count=14&theme=highcontrast&layout=compact"> 
-        </td>
-     </tr>
-     <tr>
-        <td colspan="2" align="center"><img  align="center" src="https://github-readme-streak-stats.herokuapp.com?user=imadnanhassan&theme=highcontrast&hide_border=true"></td>
-     </tr>
-   </table>
-</p>
+const MyComponent = () => {
+  const [data, setData] = useState([]);
 
+  useEffect(() => {
+    axios.get('https://api.example.com/data')
+      .then(response => setData(response.data))
+      .catch(error => console.error('Error fetching data:', error));
+  }, []);
 
+  return (
+    <div>
+      <h2>Data List</h2>
+      <ul>
+        {data.map((item, index) => (
+          <li key={index}>{item.name}</li>
+        ))}
+      </ul>
+    </div>
+  );
+};
 
-
-
-
-
-
-
-
+export default MyComponent;
