@@ -47,7 +47,7 @@ I'm a **WordPress Developer** and **SEO Expert** with a passion for building eff
 ### WordPress Projects
 1. [IWT Canada](https://iwtcanada.com/)
 2. [Hustle Hopper](https://hustlehopper.com/)
-3. [Beat Retreat DR](https://www.beatretreatdr.com/)
+3. [Bio Hacking Beauty](https://biohackingbeauty.net/)
 
 ### MERN Project
 - [Blackaboij](https://blackaboij.com/)
