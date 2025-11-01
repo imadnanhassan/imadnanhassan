@@ -9,8 +9,6 @@ I'm a **WordPress Developer** and **SEO Expert** with a passion for building eff
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=imadnanhassan&show_icons=true&theme=radical&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imadnanhassan&layout=compact&theme=radical&hide=css,html)
 
-(https://github-readme-stats.vercel.app/api?username=imadnanhassan&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&title_color=00ffff&icon_color=00ffcc&text_color=ffffff&bg_color=0d1117&custom_title=%F0%9F%94%A5)
-
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=imadnanhassan&color=blueviolet" alt="Profile Views">
   <a href="https://github.com/imadnanhassan?tab=followers">
@@ -73,5 +71,6 @@ I'm a **WordPress Developer** and **SEO Expert** with a passion for building eff
 ---
 
 *Thanks for visiting! Feel free to explore my repositories and reach out if you have any questions or collaboration ideas.* 😊
+
 
 
