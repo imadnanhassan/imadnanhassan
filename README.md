@@ -40,7 +40,7 @@ I'm a **WordPress Developer** and **SEO Expert** with a passion for building eff
   <img src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" height="30">
   <img src="https://img.shields.io/badge/-Canva-00C4CC?logo=canva&logoColor=white&style=for-the-badge" height="30">
 </p>
-
+<img src="https://raw.githubusercontent.com/imadnanhassan/imadnanhassan/output/snake.svg" alt="Snake animation" />
 ---
 
 ## 🖥️ Latest Projects
@@ -72,6 +72,7 @@ I'm a **WordPress Developer** and **SEO Expert** with a passion for building eff
 ---
 
 *Thanks for visiting! Feel free to explore my repositories and reach out if you have any questions or collaboration ideas.* 😊
+
 
 
 
