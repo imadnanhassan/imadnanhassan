@@ -73,43 +73,7 @@ I'm a **WordPress Developer** and **SEO Expert** with a passion for building eff
 
 
 
-<h1 align="center">Hey 👋What's Up?</h1>
 
-###
-
-<p align="left">I'm a WordPress Developer and SEO Expert with a passion for building efficient, user-friendly websites and applications. I specialize in custom WordPress solutions, e-commerce platforms, and seamless API integrations. Check out my projects and feel free to reach out if you'd like to collaborate!</p>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=imadnanhassan.imadnanhassan&"  />
-</div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="behance logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="facebook logo"  />
-  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="whatsapp logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="twitter logo"  />
-</div>
-
-###
-
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/imadnanhassan/imadnanhassan/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/imadnanhassan/imadnanhassan/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/imadnanhassan/imadnanhassan/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-*Thanks for visiting! Feel free to explore my repositories and reach out if you have any questions or collaboration ideas.* 😊
 
 
 
