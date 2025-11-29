@@ -7,8 +7,7 @@ I'm a **WordPress Developer** and **SEO Expert** with a passion for building eff
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=imadnanhassan&show_icons=true&theme=radical&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imadnanhassan&layout=compact&theme=radical&hide=css,html)
+
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=imadnanhassan&color=blueviolet" alt="Profile Views">
@@ -70,6 +69,7 @@ I'm a **WordPress Developer** and **SEO Expert** with a passion for building eff
 - 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/imadnanhassan/)
 
 ---
+
 
 
 
